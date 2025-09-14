@@ -7,8 +7,6 @@
 
 An intelligent web application that transforms complex text into simple, easy-to-understand explanations using the power of AI. Built with React, Vite, and Tailwind CSS, and powered by the Groq API for lightning-fast responses.
 
-![Project Screenshot](<placeholder_for_screenshot.png>) 
-*(A screenshot of the application would go here)*
 
 ---
 
